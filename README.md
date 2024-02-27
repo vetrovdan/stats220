@@ -6,7 +6,7 @@ This is my repo for STATS 220!! \
 
 - an online cloud storage for my code ☁️
 - a psuedo-portfolio for any current or future projects 🧑🏼‍💻
-- a place where people can see my code and, hopefully give me A+'s 🤭
+- a place where markers can see my code and, hopefully give me A+'s 🤭
 
 ### study plan 📖 ### 
 1. start on my projects and labs early
