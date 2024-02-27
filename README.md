@@ -4,7 +4,7 @@ This is my repo for STATS 220!! \
 \
 *What is the purpose of this repo?* 🤔
 
-- an online cloud storage for my code ☁️
+- an online cloud storage (public and private) for my code related to stats220 ☁️
 - a psuedo-portfolio for any current or future projects 🧑🏼‍💻
 - a place where markers can see my code and, hopefully give me A+'s 🤭
 
