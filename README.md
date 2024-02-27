@@ -12,7 +12,7 @@ This is my repo for STATS 220!! \
 1. start on my projects and labs early
 2. don't stress late into the week
 3. ????
-4. **profit**
+4. **profit** 🤑
 
 \
 <img src="https://i.kym-cdn.com/entries/icons/original/000/029/959/Screen_Shot_2019-06-05_at_1.26.32_PM.jpg" alt="image" width="300" height="auto">\
